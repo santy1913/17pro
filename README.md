@@ -6,4 +6,4 @@ Herramientas: Gemini Objetivo: que me explique como cambiar los colores Prompt: 
 Cambios: cambié los valores de las sumas y restas de los números para hacer que el paso del juego sea más justo, if (gameState.times < 3) {
       blocks[currentBlock].x = blocks[currentBlock].x + 3;  // aca- ahora es 3
     }.
-   Abre Home-page.html en tu web browse favorito, 
+   Abre Home-page.html en tu web browse favorito, Registrate en el juego con tu mail y una contraseña y procede.
